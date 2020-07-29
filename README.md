@@ -9,3 +9,7 @@ Here are some interesting selects using masks
 Here are examples of DataFrames merging, idiomatic Pandas, groupby's, aggregations, different scales, pivot tables and dome date functionality
 * [Pandas 4](https://github.com/yk4r2/UsefulPython/blob/master/Pandas/Pandas4.ipynb)\
 Final Pandas Assignment. Alot of interesting staff, all my Pandas skills in use
+
+## Statistics
+* [Stats 1](https://github.com/yk4r2/UsefulPython/blob/master/StatisticalAnalysis/Stats1.ipynb)\
+The first notebook with some statistics and probability basis

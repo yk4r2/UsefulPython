@@ -13,3 +13,5 @@ Final Pandas Assignment. Alot of interesting staff, all my Pandas skills in use
 ## Statistics
 * [Stats 1](https://github.com/yk4r2/UsefulPython/blob/master/StatisticalAnalysis/Stats1.ipynb)\
 The first notebook with some statistics and probability basis
+* [Stats 2]()\
+The final project of the 1st course (Introduction to DS in Python)
